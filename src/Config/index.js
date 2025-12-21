@@ -1,4 +1,4 @@
-const BASE_URL_LOGIN = "https://api.example.com/";
+const BASE_URL_LOGIN = "https://dummyjson.com";
 
 const CONFIG = {
     BASE_URL_LOGIN,
